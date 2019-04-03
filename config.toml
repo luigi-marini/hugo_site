@@ -1,0 +1,13 @@
+baseURL = "https://luigi-marini.github.io/"
+languageCode = "en-us"
+title = "Luigi Marini"
+theme = "one"
+publishDir = "luigi-marini.github.io"
+
+# Chroma Syntax Highlighting
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "pygments"
+
+[params]
+    navigation = ["research.md", "teaching.md", "blog.md", "contacts.md"]
